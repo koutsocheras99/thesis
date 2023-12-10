@@ -1,0 +1,42 @@
+Comparing KDP.csv and KO.csv:
+Standard error: 0.1297672464343755 
+Mean: 2.22452318064719 
+Standard deviation: 3.690960097583337 
+Variance: 13.640025980199557 
+
+
+Comparing KDP.csv and MNST.csv:
+Standard error: 0.1636503704570636 
+Mean: 3.3406650547282135 
+Standard deviation: 4.654695263316809 
+Variance: 21.692969438094668 
+
+
+Comparing KDP.csv and PEP.csv:
+Standard error: 0.12962256178876966 
+Mean: 2.120493602917226 
+Standard deviation: 3.6868448430153493 
+Variance: 13.60962690499356 
+
+
+Comparing KO.csv and MNST.csv:
+Standard error: 0.11443876915149165 
+Mean: 2.9393213714062165 
+Standard deviation: 3.254973363161501 
+Variance: 10.607947826775801 
+
+
+Comparing KO.csv and PEP.csv:
+Standard error: 0.04900616157026184 
+Mean: 1.3661874322973881 
+Standard deviation: 1.3938785931088626 
+Variance: 1.9452991361989924 
+
+
+Comparing MNST.csv and PEP.csv:
+Standard error: 0.1130146919290125 
+Mean: 2.9123095840091215 
+Standard deviation: 3.2144684410916167 
+Variance: 10.345579679365779 
+
+

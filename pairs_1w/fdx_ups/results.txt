@@ -1,0 +1,7 @@
+Comparing FDX.csv and UPS.csv:
+Standard error: 0.0647647071543123 
+Mean: 2.2186643159242307 
+Standard deviation: 2.2916092709197518 
+Variance: 5.25566751785814 
+
+

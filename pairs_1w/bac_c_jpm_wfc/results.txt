@@ -1,0 +1,42 @@
+Comparing BAC.csv and C.csv:
+Standard error: 0.07240976007843566 
+Mean: 2.9023693336794314 
+Standard deviation: 3.455243222764793 
+Variance: 11.94394890181665 
+
+
+Comparing BAC.csv and JPM.csv:
+Standard error: 0.06090887599906244 
+Mean: 2.690307822502922 
+Standard deviation: 2.906444942974714 
+Variance: 8.451132097718757 
+
+
+Comparing BAC.csv and WFC.csv:
+Standard error: 0.055048036659698034 
+Mean: 2.6853945063643145 
+Standard deviation: 2.6267778734371783 
+Variance: 6.902992282719231 
+
+
+Comparing C.csv and JPM.csv:
+Standard error: 0.0773846460913456 
+Mean: 2.9406931434530996 
+Standard deviation: 3.692634441317575 
+Variance: 13.641537500655442 
+
+
+Comparing C.csv and WFC.csv:
+Standard error: 0.07741547865736811 
+Mean: 3.072888992868223 
+Standard deviation: 3.6941057072722523 
+Variance: 13.652410132837176 
+
+
+Comparing JPM.csv and WFC.csv:
+Standard error: 0.05883729927060282 
+Mean: 2.762962975327319 
+Standard deviation: 2.80759360796554 
+Variance: 7.886043695274416 
+
+

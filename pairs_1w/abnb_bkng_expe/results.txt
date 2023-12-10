@@ -1,0 +1,7 @@
+Comparing BKNG.csv and EXPE.csv:
+Standard error: 0.14001866795324772 
+Mean: 3.8054861720101543 
+Standard deviation: 4.327007296447368 
+Variance: 18.742597370884162 
+
+

@@ -1,0 +1,7 @@
+Comparing CVX.csv and XOM.csv:
+Standard error: 0.02994617281316801 
+Mean: 1.856992758195729 
+Standard deviation: 1.7011429481045408 
+Variance: 2.8947841031519648 
+
+

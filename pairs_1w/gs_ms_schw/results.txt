@@ -1,0 +1,21 @@
+Comparing GS.csv and MS.csv:
+Standard error: 0.0876050211165331 
+Mean: 2.3388709503696 
+Standard deviation: 3.1330279615820986 
+Variance: 9.823538847780108 
+
+
+Comparing GS.csv and SCHW.csv:
+Standard error: 0.09317399927889541 
+Mean: 3.2539304970097684 
+Standard deviation: 3.332191937319426 
+Variance: 11.112184501278215 
+
+
+Comparing MS.csv and SCHW.csv:
+Standard error: 0.12468570240451822 
+Mean: 3.394089314979192 
+Standard deviation: 4.459148426243988 
+Variance: 19.89955121165835 
+
+

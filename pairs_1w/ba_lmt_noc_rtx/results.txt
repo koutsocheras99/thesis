@@ -1,0 +1,42 @@
+Comparing BA.csv and LMT.csv:
+Standard error: 0.07431638658856667 
+Mean: 3.344995503588134 
+Standard deviation: 3.4730489327433234 
+Variance: 12.067591814545116 
+
+
+Comparing BA.csv and NOC.csv:
+Standard error: 0.08008373401977427 
+Mean: 3.4164834806729987 
+Standard deviation: 3.742576028451137 
+Variance: 14.013288733191638 
+
+
+Comparing BA.csv and RTX.csv:
+Standard error: 0.061627841655881845 
+Mean: 2.7826218439868047 
+Standard deviation: 2.8800715362439835 
+Variance: 8.29861004474994 
+
+
+Comparing LMT.csv and NOC.csv:
+Standard error: 0.05672165676918653 
+Mean: 2.476982187665278 
+Standard deviation: 2.650789395833782 
+Variance: 7.0299017674114666 
+
+
+Comparing LMT.csv and RTX.csv:
+Standard error: 0.05989935877394702 
+Mean: 2.7563759502554133 
+Standard deviation: 2.7992938517528967 
+Variance: 7.839634001643099 
+
+
+Comparing NOC.csv and RTX.csv:
+Standard error: 0.06675887797246231 
+Mean: 2.9405353560801673 
+Standard deviation: 3.1198617227855423 
+Variance: 9.737993917090515 
+
+

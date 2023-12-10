@@ -1,0 +1,7 @@
+Comparing HSY.csv and MDLZ.csv:
+Standard error: 0.06691235456048619 
+Mean: 2.16088296929532 
+Standard deviation: 2.287776359790482 
+Variance: 5.238397935609017 
+
+

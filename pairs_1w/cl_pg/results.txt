@@ -1,0 +1,7 @@
+Comparing CL.csv and PG.csv:
+Standard error: 0.041995199340968854 
+Mean: 2.1651404869542494 
+Standard deviation: 2.156117130311989 
+Variance: 4.650604676392494 
+
+

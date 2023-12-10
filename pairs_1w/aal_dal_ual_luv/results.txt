@@ -1,0 +1,42 @@
+Comparing AAL.csv and DAL.csv:
+Standard error: 0.1572026990755163 
+Mean: 3.897711481200856 
+Standard deviation: 4.615445544071856 
+Variance: 21.327050258889386 
+
+
+Comparing AAL.csv and LUV.csv:
+Standard error: 0.2223368739065314 
+Mean: 5.580714270394216 
+Standard deviation: 6.527774268441876 
+Variance: 42.66127058523038 
+
+
+Comparing AAL.csv and UAL.csv:
+Standard error: 0.1461640202340869 
+Mean: 3.851525111137359 
+Standard deviation: 4.291351737981154 
+Variance: 18.437063659884863 
+
+
+Comparing DAL.csv and LUV.csv:
+Standard error: 0.16880577179865233 
+Mean: 4.247187379131265 
+Standard deviation: 4.9561098622577315 
+Variance: 24.59152035536089 
+
+
+Comparing DAL.csv and UAL.csv:
+Standard error: 0.14384057051683755 
+Mean: 3.3947159347509253 
+Standard deviation: 4.22313563413931 
+Variance: 17.85556469406384 
+
+
+Comparing LUV.csv and UAL.csv:
+Standard error: 0.23317803195514444 
+Mean: 5.133109212452309 
+Standard deviation: 6.846068896347809 
+Variance: 46.92303132812739 
+
+

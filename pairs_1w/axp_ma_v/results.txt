@@ -1,0 +1,21 @@
+Comparing AXP.csv and MA.csv:
+Standard error: 0.10391467599570096 
+Mean: 2.7181359621121204 
+Standard deviation: 2.9683968851940725 
+Variance: 8.822178327917165 
+
+
+Comparing AXP.csv and V.csv:
+Standard error: 0.10437890490341932 
+Mean: 2.651603185498884 
+Standard deviation: 2.981657915269797 
+Variance: 8.90117887947987 
+
+
+Comparing MA.csv and V.csv:
+Standard error: 0.057610361309992975 
+Mean: 1.506042488271806 
+Standard deviation: 1.6456810881512356 
+Variance: 2.711585197628903 
+
+

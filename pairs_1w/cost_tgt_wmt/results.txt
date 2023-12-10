@@ -1,0 +1,21 @@
+Comparing COST.csv and TGT.csv:
+Standard error: 0.07024491028853322 
+Mean: 3.221098534776599 
+Standard deviation: 3.100340106661375 
+Variance: 9.617043124394511 
+
+
+Comparing COST.csv and WMT.csv:
+Standard error: 0.0643474441872845 
+Mean: 2.8222805861459346 
+Standard deviation: 2.8400486406138774 
+Variance: 8.07001687462617 
+
+
+Comparing TGT.csv and WMT.csv:
+Standard error: 0.060485286968728805 
+Mean: 2.8367129374453754 
+Standard deviation: 2.6695878787773775 
+Variance: 7.130357912454787 
+
+

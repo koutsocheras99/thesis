@@ -1,0 +1,7 @@
+Comparing MO.csv and PM.csv:
+Standard error: 0.10668495858128664 
+Mean: 2.107350459976917 
+Standard deviation: 3.047531984441268 
+Variance: 9.298832876580024 
+
+

@@ -1,0 +1,42 @@
+Comparing AMD.csv and INTC.csv:
+Standard error: 0.14964365646108474 
+Mean: 5.472636873423989 
+Standard deviation: 5.383013259433961 
+Variance: 28.999224975160875 
+
+
+Comparing AMD.csv and NVDA.csv:
+Standard error: 0.17194113097370117 
+Mean: 6.081871713185214 
+Standard deviation: 6.185102728455446 
+Variance: 38.28505951406752 
+
+
+Comparing AMD.csv and QCOM.csv:
+Standard error: 0.1697605148369995 
+Mean: 6.1098855392880775 
+Standard deviation: 6.106661143591785 
+Variance: 37.320128955051445 
+
+
+Comparing INTC.csv and NVDA.csv:
+Standard error: 0.15684940371588982 
+Mean: 5.115012755660333 
+Standard deviation: 5.642219923679248 
+Variance: 31.859247402609085 
+
+
+Comparing INTC.csv and QCOM.csv:
+Standard error: 0.12715207157653685 
+Mean: 3.9950847167139734 
+Standard deviation: 4.573941211059554 
+Variance: 20.937105851535147 
+
+
+Comparing NVDA.csv and QCOM.csv:
+Standard error: 0.18224356551321777 
+Mean: 5.503612301329955 
+Standard deviation: 6.555704082647097 
+Variance: 43.010468736406786 
+
+

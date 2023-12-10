@@ -1,0 +1,21 @@
+Comparing T.csv and TMUS.csv:
+Standard error: 0.13235914024863207 
+Mean: 3.6971585739952313 
+Standard deviation: 3.8905482768314927 
+Variance: 15.153884836363854 
+
+
+Comparing T.csv and VZ.csv:
+Standard error: 0.059444018312095386 
+Mean: 1.575530597339056 
+Standard deviation: 1.7472901575035167 
+Variance: 3.0565564858217527 
+
+
+Comparing TMUS.csv and VZ.csv:
+Standard error: 0.13230814071571628 
+Mean: 3.6052074449792477 
+Standard deviation: 3.8890492028383252 
+Variance: 15.142209146197061 
+
+
