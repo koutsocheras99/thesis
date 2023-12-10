@@ -1,0 +1,2 @@
+Comparing CL.csv and PG.csv:
+Dynamic Time Warping Distance: 112.65523241541794 

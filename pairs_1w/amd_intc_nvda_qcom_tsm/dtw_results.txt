@@ -1,0 +1,12 @@
+Comparing AMD.csv and INTC.csv:
+Dynamic Time Warping Distance: 209.84134692314595 
+Comparing AMD.csv and NVDA.csv:
+Dynamic Time Warping Distance: 220.21254874170057 
+Comparing AMD.csv and QCOM.csv:
+Dynamic Time Warping Distance: 210.50163651067777 
+Comparing INTC.csv and NVDA.csv:
+Dynamic Time Warping Distance: 206.08977138951755 
+Comparing INTC.csv and QCOM.csv:
+Dynamic Time Warping Distance: 146.9583874869568 
+Comparing NVDA.csv and QCOM.csv:
+Dynamic Time Warping Distance: 203.58585493493246 

@@ -1,0 +1,12 @@
+Comparing BA.csv and LMT.csv:
+Dynamic Time Warping Distance: 157.84451969209516 
+Comparing BA.csv and NOC.csv:
+Dynamic Time Warping Distance: 163.30486899607556 
+Comparing BA.csv and RTX.csv:
+Dynamic Time Warping Distance: 139.20864820665028 
+Comparing LMT.csv and NOC.csv:
+Dynamic Time Warping Distance: 116.39181920668457 
+Comparing LMT.csv and RTX.csv:
+Dynamic Time Warping Distance: 123.386394690041 
+Comparing NOC.csv and RTX.csv:
+Dynamic Time Warping Distance: 130.22909007580625 

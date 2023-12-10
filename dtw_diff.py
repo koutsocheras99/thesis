@@ -1,10 +1,9 @@
 import csv
 import pandas as pd
-import matplotlib.pyplot as plt
-from scipy.stats import sem
-import statistics
 import os
 import numpy as np
+from dtaidistance import dtw
+from dtaidistance import dtw_visualisation as dtwvis
 
 def diff_checks(pair_level_folder, column_to_examine):
     '''
@@ -30,7 +29,7 @@ def diff_checks(pair_level_folder, column_to_examine):
 
 
             # create a new file (if it does not already exist)
-            f = open(f'{pair_level_folder}/euclidean_diff_results.txt', 'w')
+            f = open(f'{pair_level_folder}/dtw_results.txt', 'w')
             f.close()
 
             # perform comparisons between columns of different CSV files
@@ -47,32 +46,19 @@ def diff_checks(pair_level_folder, column_to_examine):
                         # print(stock_a_pct_change)
                         # print(stock_b_pct_change)
 
-                        diff_series = []
-                        for stock1, stock2 in zip(stock_a_pct_change, stock_b_pct_change):
-                            diff = (abs(stock1-stock2))
-                            diff_series.append(diff)
-                            # print (diff)
+                        distance_default_window = dtw.distance(stock_a_pct_change, stock_b_pct_change)
+                        print(f' Default window {distance_default_window}')
 
-                        plt.xlabel('Weeks')
-                        plt.ylabel('Percentage change of the euclidean difference %')
-                        plt.plot(diff_series)
-                        plt.title(label=f'Euclidean comparison between {csv_files[i]} and {csv_files[j]}') 
-                        # plt.show()
-                        plt.savefig(f'{pair_level_folder}/Euclidean_{csv_files[i]}_{csv_files[j]}.png')
-                        plt.close()
+                        # below are worst returns than above
+                        # distance_20_window = dtw.distance(stock_a_pct_change, stock_b_pct_change, window=20)
+                        # print(f' Window set to 20 shifts maximum {distance_20_window}')
 
-                        # print(diff_series)
-                        print("Standard error: " + str(sem(diff_series))) # = std/sqroot(number of samples)
-                        print("Mean: " + str(statistics.mean(diff_series)))
-                        print("Standard deviation: " + str(np.std(diff_series)))
-                        print("Variance: " + str(statistics.variance(diff_series)))
+                        # distance_20_window_with_max_step = dtw.distance(stock_a_pct_change, stock_b_pct_change, window=20, max_step=40)
+                        # print(f' Window set to 20 shifts maximum with step set {distance_20_window_with_max_step}')
 
-                        f = open(f'{pair_level_folder}/euclidean_diff_results.txt', 'a')
+                        f = open(f'{pair_level_folder}/dtw_results.txt', 'a')
                         f.write(f'Comparing {csv_files[i]} and {csv_files[j]}:\n')
-                        f.write(f'Standard error: {sem(diff_series)} \n')
-                        f.write(f'Mean: {statistics.mean(diff_series)} \n')
-                        f.write(f'Standard deviation: {np.std(diff_series)} \n' )
-                        f.write(f'Variance: {statistics.variance(diff_series)} \n\n\n')
+                        f.write(f'Dynamic Time Warping Distance: {distance_default_window} \n')
                         f.close()
 
                     except Exception as e: # list index out of range when only 2 pairs
@@ -85,6 +71,7 @@ if __name__ == "__main__":
     general_folder = 'sp500_1w_max_period/'
 
     diff_checks(pairs_folder, column_to_examine='close_pct_change')
+
 
     # pairs_folder = 'pairs_1d/'
     # general_folder = 'sp500_1d_max_period/'

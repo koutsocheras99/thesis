@@ -1,0 +1,2 @@
+Comparing FDX.csv and UPS.csv:
+Dynamic Time Warping Distance: 86.19212632799511 

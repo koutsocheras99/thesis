@@ -1,0 +1,2 @@
+Comparing MO.csv and PM.csv:
+Dynamic Time Warping Distance: 84.18844586484136 

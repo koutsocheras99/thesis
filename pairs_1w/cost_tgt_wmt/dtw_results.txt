@@ -1,0 +1,6 @@
+Comparing COST.csv and TGT.csv:
+Dynamic Time Warping Distance: 133.82473879373586 
+Comparing COST.csv and WMT.csv:
+Dynamic Time Warping Distance: 120.27554310727086 
+Comparing TGT.csv and WMT.csv:
+Dynamic Time Warping Distance: 119.80667079871739 

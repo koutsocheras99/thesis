@@ -1,0 +1,6 @@
+Comparing T.csv and TMUS.csv:
+Dynamic Time Warping Distance: 118.53895300725222 
+Comparing T.csv and VZ.csv:
+Dynamic Time Warping Distance: 54.15421015468074 
+Comparing TMUS.csv and VZ.csv:
+Dynamic Time Warping Distance: 119.52059543541966 

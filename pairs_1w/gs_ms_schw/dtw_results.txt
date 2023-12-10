@@ -1,0 +1,6 @@
+Comparing GS.csv and MS.csv:
+Dynamic Time Warping Distance: 127.15191027488095 
+Comparing GS.csv and SCHW.csv:
+Dynamic Time Warping Distance: 129.58559714503863 
+Comparing MS.csv and SCHW.csv:
+Dynamic Time Warping Distance: 160.62427271527994 

@@ -1,0 +1,2 @@
+Comparing BKNG.csv and EXPE.csv:
+Dynamic Time Warping Distance: 126.58548812861946 

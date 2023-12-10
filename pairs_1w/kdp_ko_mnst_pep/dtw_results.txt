@@ -1,0 +1,12 @@
+Comparing KDP.csv and KO.csv:
+Dynamic Time Warping Distance: 89.24044491970825 
+Comparing KDP.csv and MNST.csv:
+Dynamic Time Warping Distance: 109.00277390893869 
+Comparing KDP.csv and PEP.csv:
+Dynamic Time Warping Distance: 91.63637007543204 
+Comparing KO.csv and MNST.csv:
+Dynamic Time Warping Distance: 94.86118095117476 
+Comparing KO.csv and PEP.csv:
+Dynamic Time Warping Distance: 43.740719087252344 
+Comparing MNST.csv and PEP.csv:
+Dynamic Time Warping Distance: 93.99683808141185 

@@ -1,0 +1,12 @@
+Comparing AAL.csv and DAL.csv:
+Dynamic Time Warping Distance: 147.46690601542167 
+Comparing AAL.csv and LUV.csv:
+Dynamic Time Warping Distance: 202.0626118967234 
+Comparing AAL.csv and UAL.csv:
+Dynamic Time Warping Distance: 141.7479163012649 
+Comparing DAL.csv and LUV.csv:
+Dynamic Time Warping Distance: 153.70759678131265 
+Comparing DAL.csv and UAL.csv:
+Dynamic Time Warping Distance: 139.68093776963806 
+Comparing LUV.csv and UAL.csv:
+Dynamic Time Warping Distance: 207.86318369530204 

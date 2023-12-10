@@ -1,0 +1,2 @@
+Comparing CVX.csv and XOM.csv:
+Dynamic Time Warping Distance: 115.02856675430111 

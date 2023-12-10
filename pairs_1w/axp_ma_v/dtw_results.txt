@@ -1,0 +1,6 @@
+Comparing AXP.csv and MA.csv:
+Dynamic Time Warping Distance: 87.3091204732982 
+Comparing AXP.csv and V.csv:
+Dynamic Time Warping Distance: 88.8516765966213 
+Comparing MA.csv and V.csv:
+Dynamic Time Warping Distance: 54.41694618425935 

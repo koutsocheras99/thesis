@@ -1,0 +1,12 @@
+Comparing BAC.csv and C.csv:
+Dynamic Time Warping Distance: 169.7210161254838 
+Comparing BAC.csv and JPM.csv:
+Dynamic Time Warping Distance: 148.3456718322045 
+Comparing BAC.csv and WFC.csv:
+Dynamic Time Warping Distance: 136.6301831513147 
+Comparing C.csv and JPM.csv:
+Dynamic Time Warping Distance: 173.5401750968131 
+Comparing C.csv and WFC.csv:
+Dynamic Time Warping Distance: 174.79664794626186 
+Comparing JPM.csv and WFC.csv:
+Dynamic Time Warping Distance: 136.71428567025256 
